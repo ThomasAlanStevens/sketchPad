@@ -34,6 +34,9 @@ function addEventListenerToPanels(){
 function reset(){
     gridContainer.innerHTML = ''
     promptUser()
+    while(gridSize > 100){
+        promptUser()
+    }
     addPanels()
     addEventListenerToPanels()
     addHoverClass()
