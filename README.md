@@ -1,8 +1,8 @@
-# Codewars Katas: [Profile Here](https://www.codewars.com/users/ThomasAlanStevens)
+# Color Sketchpad Grid
  
-A repository filled with code wars challenges (katas). Currently in the top 4% of coders on the global leaderboard, Completed over 100+ katas, and currently complete 5 solutions every week.
+A short project that creates a length by width square using user prompted input. The grid can then be used like a sketchpad.
 
-**Link To Profile:** https://www.codewars.com/users/ThomasAlanStevens
+**Link To Project:** https://www.codewars.com/users/ThomasAlanStevens
 
 <img src="imgs/kataProgress.PNG">
 

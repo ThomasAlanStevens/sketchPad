@@ -6,14 +6,29 @@
     margin: 0;
 }
 
+h1{
+    text-align: center;
+}
+
 .container{
     display: flex;
     flex-wrap: wrap;
     height: 960px;
     width: 960px;
     border: 3px solid rgb(138, 25, 44);
+    margin: 0 auto;
+    text-align: center;
 }
 
+.button {
+    text-align: center;
+}
+
+button{
+    height: 2em;
+    width: 4em;
+    font-size: 4rem;
+}
 div{
     border: 1px solid rgb(40, 187, 245);
 }
